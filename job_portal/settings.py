@@ -87,7 +87,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'job_portal_django',
         'USER': 'postgres',
-        'PASSWORD': 'karishma123',
+        'PASSWORD': 'amra',
         'HOST': 'localhost',
     }
 }
